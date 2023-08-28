@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+
 """
 
 n_lineas=0
